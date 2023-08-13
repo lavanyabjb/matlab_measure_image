@@ -1,5 +1,5 @@
 # Measure Image Dimensions in MATLAB
-This is a Matlab script program to measure the length dimensions of the Scanning Electron Microscope (SEM) image.
+This is a Matlab script program to measure the length dimensions of the Scanning Electron Microscope (SEM) image without using the Image processing toolkit from MATLAB.
 
 Step1:
 Copy and paste the image address in the img variable. (Line 10) 
